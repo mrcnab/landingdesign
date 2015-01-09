@@ -1,0 +1,9 @@
+[29-Aug-2013 20:50:02 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/qldtradp/public_html/modules/profile_management/ajax_files/contactsdata.php on line 25
+[29-Aug-2013 20:56:41 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/qldtradp/public_html/modules/profile_management/ajax_files/data.php on line 17
+[29-Aug-2013 20:56:48 Australia/Melbourne] PHP Warning:  Invalid argument supplied for foreach() in /home/qldtradp/public_html/modules/profile_management/ajax_files/clientdata.php on line 19
+[11-Sep-2013 16:08:11 Australia/Melbourne] PHP Fatal error:  Call to a member function getMultipleRecords() on a non-object in /home/qldtradp/public_html/modules/profile_management/ajax_files/clientdata.php on line 7
+[11-Sep-2013 16:36:16 Australia/Melbourne] PHP Fatal error:  Call to a member function getMultipleRecords() on a non-object in /home/qldtradp/public_html/modules/profile_management/ajax_files/clientdata.php on line 7
+[11-Sep-2013 16:36:36 Australia/Melbourne] PHP Fatal error:  Call to a member function getMultipleRecords() on a non-object in /home/qldtradp/public_html/modules/profile_management/ajax_files/clientdata.php on line 7
+[11-Sep-2013 16:36:57 Australia/Melbourne] PHP Fatal error:  Call to a member function getMultipleRecords() on a non-object in /home/qldtradp/public_html/modules/profile_management/ajax_files/contactsdata.php on line 13
+[11-Sep-2013 16:41:36 Australia/Melbourne] PHP Fatal error:  Call to a member function getMultipleRecords() on a non-object in /home/qldtradp/public_html/modules/profile_management/ajax_files/contactsdata.php on line 13
+[11-Sep-2013 16:45:11 Australia/Melbourne] PHP Fatal error:  Call to a member function getMultipleRecords() on a non-object in /home/qldtradp/public_html/modules/profile_management/ajax_files/clientdata.php on line 7
